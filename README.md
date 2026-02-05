@@ -1,5 +1,7 @@
 Python Hangman ReadMe
+
 Author: Marcus Hollimon
+
 Version: 3.13 
 
 Credit for word.txt file goes to Kethron: https://github.com/Xethron/Hangman/blob/master/words.txt
