@@ -1,6 +1,6 @@
 import random
 from pathlib import Path
-File_Path=Path(r"C:\Users\junni\My Python Projects\words.txt")
+File_Path=Path(r"Your path to word.txt")
 Valid_Words=[]
 Difficulty= int(input("How long do you want the word to be? "))
 while Difficulty <1:
@@ -40,4 +40,5 @@ while (Lives>0) & ("_" in Progress_Tracker):
 if "_" in Progress_Tracker:
     print("You lost!")
     print("You win!")
+
     print(f"Lives left: {Lives}")
