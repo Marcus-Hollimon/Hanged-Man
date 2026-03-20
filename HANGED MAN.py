@@ -41,4 +41,5 @@ if "_" in Progress_Tracker:
     print("You lost!")
     print("You win!")
 
-    print(f"Lives left: {Lives}")
+    print(f"Lives left: {Lives}") 
+    print(f"The word was {Random_Word}")
