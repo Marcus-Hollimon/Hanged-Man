@@ -1,6 +1,6 @@
 import random
 from pathlib import Path
-File_Path=Path(r"Your path to word.txt")
+File_Path=Path(r"Your path to words.txt")
 Valid_Words=[]
 Difficulty= int(input("How long do you want the word to be? "))
 while Difficulty <1:
